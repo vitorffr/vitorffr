@@ -2,7 +2,7 @@
 
 # Vitor Ribas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Automation+%26+Infrastructure+Engineer;Computer+Engineering+Student;Building+systems+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=440&lines=Automation+%26+Infra+Engineer;CS+Engineering+Student;Building+systems+that+scale" alt="Typing SVG" />
 
 <br>
 
