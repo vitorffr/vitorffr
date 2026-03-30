@@ -2,7 +2,7 @@
 
 # Vitor Ribas
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=530&lines=Automation+%26+Infrastructure+Engineer;Computer+Engineering+Student;Building+systems+that+scale;Cloudflare+Workers+%7C+Node.js+%7C+Python" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=435&lines=Automation+Engineer;Infrastructure+Developer;Computer+Engineering+Student" alt="Typing SVG" />
 
 <br>
 
@@ -138,10 +138,7 @@ Data extraction with **anti-detection & automation**
 <div align="center">
 
 <a href="https://github.com/vitorffr">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorffr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-</a>
-<a href="https://github.com/vitorffr">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorffr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorffr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br>
